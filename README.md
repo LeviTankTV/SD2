@@ -1,5 +1,7 @@
 # Supreme Dungeon II — The Throne Hall
 
+[![Latest release](https://img.shields.io/github/v/release/LeviTankTV/SD2)](https://github.com/LeviTankTV/SD2/releases/latest) [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-4a7dff)](https://github.com/LeviTankTV/SD2/releases/latest) [![License](https://img.shields.io/badge/license-MIT-34c759)](LICENSE)
+
 **Crawler roguelike · 3 chapters · procedural floors · spells and allies · 4 endings.**
 
 Below the old town lie the Catacombs. Above them — the ravaged Royal Lands. And above it all, the Castle of the Supreme Mage, where the Magic Door waits for the Dark Key. Gather spellbooks, hire allies, shatter the passage seal — and face what gathers behind the throne.
